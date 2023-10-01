@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ <img src="https://komarev.com/ghpvc/?username=falonez&style=flat-square&color=blue" alt=""/>
+
 <!--
 **falonez/falonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
